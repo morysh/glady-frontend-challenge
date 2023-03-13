@@ -1,0 +1,6 @@
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/morysh/calculator.git
+[submodule "tester"]
+	path = tester
+	url = https://github.com/morysh/glady-challenge-tester.git
